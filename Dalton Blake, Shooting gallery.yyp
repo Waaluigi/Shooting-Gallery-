@@ -277,6 +277,14 @@
                 "resourcePath": "sprites\\sprite_duck\\sprite_duck.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "ffe346c6-c522-4f8c-aad9-850b863d9e73",
+            "Value": {
+                "id": "68daacbf-4fa9-4a43-968e-114d76887ef7",
+                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
