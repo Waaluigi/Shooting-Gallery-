@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "a38df259-a5e7-4098-9e4d-4200294ddb97",
+            "Value": {
+                "id": "dd9d7232-1037-4504-9f26-6cd01ca096d2",
+                "resourcePath": "objects\\object_hole\\object_hole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b41028a6-14d7-4ecc-8410-18135ae59475",
             "Value": {
                 "id": "d2a372bb-d4bc-4d0a-b887-8cc42e7e1db6",
