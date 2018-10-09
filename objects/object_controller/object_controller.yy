@@ -1,10 +1,19 @@
 {
-    "id": "bdc45bf5-8e8e-46d7-9586-1debb04a3bbb",
+    "id": "898921b0-263a-42c6-a249-cc6ac744c004",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object",
+    "name": "object_controller",
     "eventList": [
-        
+        {
+            "id": "9407cf96-fab0-4bc2-b579-bd6c2f5093ce",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "898921b0-263a-42c6-a249-cc6ac744c004"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
