@@ -34,3 +34,16 @@ for(var l06FAA06A_2 = __dnd_lives; l06FAA06A_2 > 0; --l06FAA06A_2) {
 	draw_sprite(sprite_ammo, 0, 200 + l06FAA06A_1, 10);
 	l06FAA06A_1 += l06FAA06A_0;
 }
+
+/// @DnDAction : YoYo Games.Instance Variables.If_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 3E0827DD
+if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
+if(__dnd_lives == 0)
+{
+	/// @DnDAction : YoYo Games.Game.Restart_Game
+	/// @DnDVersion : 1
+	/// @DnDHash : 2EB250AA
+	/// @DnDParent : 3E0827DD
+	game_restart();
+}
